@@ -6,6 +6,7 @@ Full Stack Developer
 Address: Belarus, Grodno \
 Email: Stanislau.zakharevich@gmail.com \
 Linkedin: [My linkedin page](https://www.linkedin.com/in/stanislau-zakharevich-18565b1a3) \
+GitHub: [My github](https://slav6897337.github.io/rsschool-cv/cv) \
 Phone: 8033 6897337
 
 ## Education
