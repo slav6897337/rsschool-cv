@@ -1,7 +1,7 @@
-﻿#Stanislau Zakharevich
+﻿# Stanislau Zakharevich
 Full Stack Developer
 
-##Contacts
+## Contacts
 
 Address: Belarus, Grodno \
 Email: Stanislau.zakharevich@gmail.com \
@@ -15,7 +15,7 @@ Phone: 8033 6897337
 Yanka Kupala State University of Grodno Bachelor's degree - Industrial Electronics
 
 
-##Work Experience
+## Work Experience
 
 > **.Net Developer** \
 > Mobile dealer\
@@ -42,7 +42,7 @@ Yanka Kupala State University of Grodno Bachelor's degree - Industrial Electroni
 >> - Implemented documentation.
 >
 > **Electrical Engineer**\
-> Refit\
+> Refit
 >> June 2015 - June 2016
 >> - Repaired electronic devices.
 >> - Restored the functionality of the laptop, that couldn’t be repaired
